@@ -1,4 +1,4 @@
-Here is a Markdown file with practice exercises for HTML covering the specified topics:
+# Practice Work Session 02 (HTML) 
 
 ```markdown
 # HTML Practice Exercises
@@ -209,4 +209,3 @@ Here is a Markdown file with practice exercises for HTML covering the specified 
 ```
 ```
 
-This Markdown file covers exercises for tables, form elements, and various input attributes, providing examples for students to practice and understand HTML concepts.
